@@ -1,0 +1,102 @@
+.skyline {
+  width: 1000px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+h1 {
+  text-align: center;
+  font-size: 60px;
+  font-family: Impact, sans-serif;
+  border-style: solid;
+}
+
+h1:hover {
+  background-color: white;
+  text-decoration: underline;
+}
+
+nav {
+  width: 100%;
+}
+
+ul {
+  list-style-type: none;
+  text-align: center;
+  font-size: 30px;
+  font-family: Impact, sans-serif;
+}
+
+ul li a{
+  display: inline-block;
+  text-decoration: none;
+  color: white;
+  font-family: Lucida Sans Unicode;
+
+}
+
+ul li a:hover {
+  color: #FF8C00;
+}
+body {
+  background-color: #708090;
+  margin: 0;
+  padding: 0;
+}
+
+.First {
+  width: 900px;
+  margin: 0 auto;
+  font-family: sans-serif;
+  font-size: 25px;
+  color: white;
+  text-align: center;
+  border-style: double;
+  border-color: orange;
+
+}
+
+
+.Second {
+
+  width: 900px;
+  margin: 0 auto;
+  margin-top: 5%;
+  padding: 5%;
+  font-family: sans-serif;
+  font-size: 20px;
+  color: #2F4F4F;
+  border-style: dotted;
+  border-color: white;
+}
+
+.Third {
+
+  width: 900px;
+  margin: 0 auto;
+  margin-top: 5%;
+  padding: 5%;
+  font-family: sans-serif;
+  font-size: 20px;
+  color: white;
+  border-style: double;
+  border-color: orange;
+  text-align: center;
+}
+
+.bottom {
+  width: 1000px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 10%;
+
+}
+
+h3 {
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  text-transform: uppercase;
+  background-color: orange;
+  color: white;
+}
